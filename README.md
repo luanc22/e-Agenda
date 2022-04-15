@@ -1,0 +1,1 @@
+eAgenda.ConsoleApp
